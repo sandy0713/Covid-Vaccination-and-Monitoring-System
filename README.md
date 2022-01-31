@@ -26,5 +26,8 @@ Vaccination - Features :
 5. Exit
 
 Hospitalization - Features :
-Scoring will done on a particular basis done by us. No doctor will be involved in the whole process.
+Scoring will done on a particular basis done by us and there are 4 types of medications ranging from light to severe.
+
+
+No doctor will be involved in the whole process.
 Hope you like the code!
